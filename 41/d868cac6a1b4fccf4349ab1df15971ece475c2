@@ -1,0 +1,19 @@
+test/plugin.test.ts
+  s_8d888facfadf6a::t_463a791476e54e 1436-1458
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "41d868cac6a1b4fccf4349ab1df15971ece475c2",
+  "prompts": {},
+  "sessions": {
+    "s_8d888facfadf6a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_007f457d9ffexYoeDLNjokuvOM",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Roshni Dave <rdave@cloudflare.com>"
+    }
+  }
+}
