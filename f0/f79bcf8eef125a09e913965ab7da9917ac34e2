@@ -1,0 +1,19 @@
+src/plugin.ts
+  s_dc18b155d01254::t_065c8ab55a7f9e 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f0f79bcf8eef125a09e913965ab7da9917ac34e2",
+  "prompts": {},
+  "sessions": {
+    "s_dc18b155d01254": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0094b6e5effe2Lp1CGquleKdG3",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Roshni Dave <rdave@cloudflare.com>"
+    }
+  }
+}
